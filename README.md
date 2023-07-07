@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlienInnovations
-- 👀 I’m interested in ... Augmented Reality
+- 👀 I’m interested in ... User Experience 
 - 🌱 I’m currently learning ...C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
